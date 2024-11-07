@@ -26,4 +26,4 @@ def round_to_place_value(value, p_val=0, highest=False):
             return round_to_place_value(value, p_val=p_val)
         
 
-print(round_to_place_value(2297.65, highest=True))
+# EXAMPLE: print(round_to_place_value(2297.65, highest=True))
